@@ -1,0 +1,20 @@
+* {
+    
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    color: black;
+    background-color: rgb(192, 192, 192);
+    box-shadow: 4px 4px 3px black;
+    border-radius: 10px;
+}
+a:hover {
+background-color: rgb(217, 217, 217);
+}
